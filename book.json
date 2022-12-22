@@ -1,0 +1,28 @@
+{
+	"title": "比特社区·老梁加油站",
+    "description": "比特社区·老梁加油站",
+    "author": "liang",
+    "language": "zh-hans",
+    "root": ".",
+    
+    "plugins": [
+        "donate",
+        "edit-link"
+    ],
+
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "https:///images/wechatpay.jpg",
+            "alipay": "https://ges/alipay.jpg",
+            "title": "",
+            "button": "加入战队",
+            "wechatText": "step1",
+            "alipayText": "step2"
+
+        },
+        "edit-link": {
+            "base": "https://github.com/gitbook/edit/master",
+            "label": "编辑此页"
+        }
+    }
+}
