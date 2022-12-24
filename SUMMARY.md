@@ -1,11 +1,15 @@
 # Summary
 
 * [简介](README.md)
-  * [简介](README.md)
 
 -----
 
-* [简介](README.md)
-* [markdown语法学习](markdown.md)
-* [交易所](0交易所.md)
+* 准备工作
+  * [交易所选择](准备工作/交易所选择.md)
+
+* 生存篇
+  * [保本原则](生存篇/保本原则.md)
+  * [分批进场](生存篇/分批进场.md)
+
+* [md语法学习](markdown.md)
 
